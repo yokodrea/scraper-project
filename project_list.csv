@@ -1,0 +1,218 @@
+,Project Name,Project URL,Description,Stars,Forks,Technology Used
+0,"apache / spark
+Star
+Apache Spark - A unified analytics engine for large-scale data processing
+40706
+28539
+Scala",https://github.com/apache/spark,Apache Spark - A unified analytics engine for large-scale data processing,40706,28539,Scala
+1,"apache / hadoop
+Star
+Apache Hadoop
+14969
+8959
+Java",https://github.com/apache/hadoop,Apache Hadoop,14969,8959,Java
+2,"jbhuang0604 / awesome-computer-vision
+Star
+A curated list of awesome computer vision resources
+21420
+4275",https://github.com/jbhuang0604/awesome-computer-vision,A curated list of awesome computer vision resources,21420,4275,N/A
+3,"GSA / data
+Star
+Assorted data from the General Services Administration.
+2135
+278
+HTML",https://github.com/GSA/data,Assorted data from the General Services Administration.,2135,278,HTML
+4,"GoogleTrends / data
+Star
+An index of all open-source data
+4659
+449
+JavaScript",https://github.com/GoogleTrends/data,An index of all open-source data,4659,449,JavaScript
+5,"nationalparkservice / data
+Star
+An unofficial repository of National Park Service data.
+1214
+87
+JavaScript",https://github.com/nationalparkservice/data,An unofficial repository of National Park Service data.,1214,87,JavaScript
+6,"fivethirtyeight / data
+Star
+Data and code behind the articles and graphics at FiveThirtyEight
+16975
+11066
+Jupyter Notebook",https://github.com/fivethirtyeight/data,Data and code behind the articles and graphics at FiveThirtyEight,16975,11066,Jupyter Notebook
+7,"beamandrew / medical-data
+Star
+5869
+1131",https://github.com/beamandrew/medical-data,N/A,5869,1131,N/A
+8,"src-d / awesome-machine-learning-on-source-code
+Star
+Cool links & research papers related to Machine Learning applied to source code (MLonCode)
+6323
+839",https://github.com/src-d/awesome-machine-learning-on-source-code,Cool links & research papers related to Machine Learning applied to source code (MLonCode),6323,839,N/A
+9,"igrigorik / decisiontree
+Star
+ID3-based implementation of the ML Decision Tree algorithm
+1440
+129
+Ruby",https://github.com/igrigorik/decisiontree,ID3-based implementation of the ML Decision Tree algorithm,1440,129,Ruby
+10,"keon / awesome-nlp
+Star
+📖 A curated list of resources dedicated to Natural Language Processing (NLP)
+17014
+2595",https://github.com/keon/awesome-nlp,📖 A curated list of resources dedicated to Natural Language Processing (NLP),17014,2595,N/A
+11,"openai / gym
+Star
+A toolkit for developing and comparing reinforcement learning algorithms.
+35562
+8656
+Python",https://github.com/openai/gym,A toolkit for developing and comparing reinforcement learning algorithms.,35562,8656,Python
+12,"aikorea / awesome-rl
+Star
+Reinforcement learning resources curated
+9001
+1828",https://github.com/aikorea/awesome-rl,Reinforcement learning resources curated,9001,1828,N/A
+13,"umutisik / Eigentechno
+Star
+Principal Component Analysis on music loops
+764
+43
+Jupyter Notebook",https://github.com/umutisik/Eigentechno,Principal Component Analysis on music loops,764,43,Jupyter Notebook
+14,"jpmckinney / tf-idf-similarity
+Star
+Ruby gem to calculate the similarity between texts using tf*idf
+752
+65
+Ruby",https://github.com/jpmckinney/tf-idf-similarity,Ruby gem to calculate the similarity between texts using tf*idf,752,65,Ruby
+15,"scikit-learn-contrib / lightning
+Star
+Large-scale linear classification, regression and ranking in Python
+1740
+214
+Python",https://github.com/scikit-learn-contrib/lightning,"Large-scale linear classification, regression and ranking in Python",1740,214,Python
+16,"gwding / draw_convnet
+Star
+2715
+518
+Python",https://github.com/gwding/draw_convnet,N/A,2715,518,Python
+17,"scikit-learn / scikit-learn
+Star
+scikit-learn: machine learning in Python
+61383
+25667
+Python",https://github.com/scikit-learn/scikit-learn,scikit-learn: machine learning in Python,61383,25667,Python
+18,"tensorflow / tensorflow
+Star
+An Open Source Machine Learning Framework for Everyone
+188535
+74590
+C++",https://github.com/tensorflow/tensorflow,An Open Source Machine Learning Framework for Everyone,188535,74590,C++
+19,"activeloopai / deeplake
+Star
+Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activelo…
+8458
+652
+Python",https://github.com/activeloopai/deeplake,"Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activelo…",8458,652,Python
+20,"Theano / Theano
+Star
+Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as PyTensor: www.github.…
+9930
+2490
+Python",https://github.com/Theano/Theano,"Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as PyTensor: www.github.…",9930,2490,Python
+21,"shogun-toolbox / shogun
+Star
+Shōgun
+3038
+1035
+C++",https://github.com/shogun-toolbox/shogun,Shōgun,3038,1035,C++
+22,"davisking / dlib
+Star
+A toolkit for making real world machine learning and data analysis applications in C++
+13851
+3411
+C++",https://github.com/davisking/dlib,A toolkit for making real world machine learning and data analysis applications in C++,13851,3411,C++
+23,"apache / predictionio
+Star
+PredictionIO, a machine learning server for developers and ML engineers.
+12529
+1927
+Scala",https://github.com/apache/predictionio,"PredictionIO, a machine learning server for developers and ML engineers.",12529,1927,Scala
+24,"google-deepmind / pysc2
+Star
+StarCraft II Learning Environment
+8090
+1158
+Python",https://github.com/google-deepmind/pysc2,StarCraft II Learning Environment,8090,1158,Python
+25,"gokceneraslan / awesome-deepbio
+Star
+A curated list of awesome deep learning applications in the field of computational biology
+1905
+314",https://github.com/gokceneraslan/awesome-deepbio,A curated list of awesome deep learning applications in the field of computational biology,1905,314,N/A
+26,"buriburisuri / ByteNet
+Star
+A tensorflow implementation of French-to-English machine translation using DeepMind's ByteNet .
+613
+95
+Python",https://github.com/buriburisuri/ByteNet,A tensorflow implementation of French-to-English machine translation using DeepMind's ByteNet .,613,95,Python
+27,"josephmisiti / awesome-machine-learning
+Star
+A curated list of awesome Machine Learning frameworks, libraries and software.
+67179
+14806
+Python",https://github.com/josephmisiti/awesome-machine-learning,"A curated list of awesome Machine Learning frameworks, libraries and software.",67179,14806,Python
+28,"ujjwalkarn / Machine-Learning-Tutorials
+Star
+machine learning and deep learning tutorials, articles and other resources
+15979
+3831",https://github.com/ujjwalkarn/Machine-Learning-Tutorials,"machine learning and deep learning tutorials, articles and other resources",15979,3831,N/A
+29,"ChristosChristofidis / awesome-deep-learning
+Star
+A curated list of awesome Deep Learning tutorials, projects and communities.
+24937
+6106",https://github.com/ChristosChristofidis/awesome-deep-learning,"A curated list of awesome Deep Learning tutorials, projects and communities.",24937,6106,N/A
+30,"fastai / courses
+Star
+fast.ai Courses
+5639
+2737
+Jupyter Notebook",https://github.com/fastai/courses,fast.ai Courses,5639,2737,Jupyter Notebook
+31,"Yorko / mlcourse.ai
+Star
+Open Machine Learning Course
+9933
+5685
+Python",https://github.com/Yorko/mlcourse.ai,Open Machine Learning Course,9933,5685,Python
+32,"jtoy / awesome-tensorflow
+Star
+TensorFlow - A curated list of dedicated resources http://tensorflow.org
+17239
+3027",https://github.com/jtoy/awesome-tensorflow,TensorFlow - A curated list of dedicated resources http://tensorflow.org,17239,3027,N/A
+33,"nlintz / TensorFlow-Tutorials
+Star
+Simple tutorials using Google's TensorFlow Framework
+6007
+1508
+Jupyter Notebook",https://github.com/nlintz/TensorFlow-Tutorials,Simple tutorials using Google's TensorFlow Framework,6007,1508,Jupyter Notebook
+34,"pkmital / tensorflow_tutorials
+Star
+From the basics to slightly more interesting applications of Tensorflow
+5644
+1179
+Jupyter Notebook",https://github.com/pkmital/tensorflow_tutorials,From the basics to slightly more interesting applications of Tensorflow,5644,1179,Jupyter Notebook
+35,"VIDEO
+AI vs. Human: The Greatest Go Tournam...
+Google's 'AlphaGo' and the world's top ranked Go player go head-to-head in a battle to decide whether or not an AI can be programmed to win a game as complic...
+https://www.youtube.com/embed/KsbQ_HNX6Pg",https://www.youtube.com/embed/KsbQ_HNX6Pg,N/A,0,0,N/A
+36,"VIDEO
+How Does Your Phone Know This Is A Do...
+Check out this other video about machine learning! http://g.co/go/NLstyleSUBSCRIBE: https://goo.gl/CEsJyN What do voice search, machine translation, and ATMs...
+https://www.youtube.com/embed/bHvf7Tagt18",https://www.youtube.com/embed/bHvf7Tagt18,N/A,0,0,N/A
+37,"VIDEO
+How Deep Neural Networks Work - YouTube
+Part of the End-to-End Machine Learning School Course 193, How Neural Networks Work at https://e2eml.school/193Visit the blog:https://brohrer.github.io/how_n...
+https://www.youtube.com/embed/ILsA4nyG7I0",https://www.youtube.com/embed/ILsA4nyG7I0,N/A,0,0,N/A
+38,"AMAI-GmbH / AI-Expert-Roadmap
+Star
+Roadmap to becoming an Artificial Intelligence Expert in 2022
+29626
+2526
+JavaScript",https://github.com/AMAI-GmbH/AI-Expert-Roadmap,Roadmap to becoming an Artificial Intelligence Expert in 2022,29626,2526,JavaScript
