@@ -41,6 +41,9 @@ Scraping Method: Browser Automation (headless mode supported)
 Data Storage: CSV 
 
 # Future Enhancements
+
  1.Multi-threading for parallel execution
+ 
  2.Automated scheduling for periodic data extraction
+ 
  3.Real-time notifications for data updates
