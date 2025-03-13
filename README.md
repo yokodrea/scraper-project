@@ -2,11 +2,17 @@
 This project is a web scraper that automates the process of extracting repository details from GitHub. It navigates through pages, clicks the "Load more" button, and collects relevant data such as repository names, descriptions, forks, star counts, and programming languages.
 
 # Features
+
 1.Automated Web Scraping – Extracts required data efficiently
+
 2.Handles Dynamic Websites – Uses Selenium for JavaScript-rendered pages and use stealth
+
 3.Data Storage – Saves output in CSV and User can download the result
+
 4.Customizable Selectors – Easily modify to target GitHub collection repo
+
 5.Error Handling & Logging – Ensures smooth execution
+
 6. Provide analytical information graphs, charts etc.
 
 # Use Case
