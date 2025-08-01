@@ -17,7 +17,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium_stealth import stealth
-
+from webdriver_manager.chrome import ChromeDriverManager
 
 st.set_page_config(page_title="Github scraper", layout="wide")
 st.title("GitHub Machine Learning Scraper")
@@ -61,9 +61,14 @@ def create_webdriver():
     user_agent = random.choice(user_agents)
     driver_options.add_argument(f"user-agent={user_agent}")
 
-    chromedriver_path = r"C:\Users\sabar\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe"
-    service = Service(chromedriver_path)
+    service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=driver_options)
+
+
+    #if you are running locally and want to run with chromedrive just delete the above line and use this
+    # chromedriver_path = r"C:\Users\sabar\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe"
+    # service = Service(chromedriver_path)
+    # driver = webdriver.Chrome(service=service, options=driver_options)
 
     # Apply stealth settings
     stealth(
